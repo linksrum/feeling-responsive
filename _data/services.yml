@@ -1,17 +1,21 @@
-- menu_name: "Services"
+- menu_name: 'Services'
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: 'Impressum'
+  url: '/impressum/'
+  title: 'Impressum'
 
-- name: "RSS"
-  url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+- name: 'Kontakt'
+  url: '/kontakt/'
+  title: 'Kontakt'
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+- name: 'RSS Feed'
+  url: '/feed.xml'
+  title: 'RSS Feed abonnieren'
 
-- name: "sitemap.xml"
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+- name: 'Atom Feed'
+  url: '/atom.xml'
+  title: 'Atom Feed abonnieren'
+
+- name: 'sitemap.xml'
+  url: '/sitemap.xml'
+  title: 'Sitemap für Google Webmaster Tools'

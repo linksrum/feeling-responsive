@@ -1,32 +1,32 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/linksrum
   class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: 'Code und mehr...'
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/linksrum
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: 'Immer das Neuste von linksrum gibt es auf Twitter'
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Facebook
+  url: https://www.facebook.com/linksrum
+  class: icon-facebook
+  title: ''
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+Phlow
+#   class: icon-googleplus
+#   title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+# - name: YouTube
+#   url: http://www.youtube.com/linksrum
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von linksrum auf YouTube"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
